@@ -1,4 +1,5 @@
 # Music-Store-Analysis-Using-SQL
+Movie Database Analysis Project – SQL
 1️⃣ Project Introduction
 
 “In this project, I designed and analyzed a movie database using SQL.
